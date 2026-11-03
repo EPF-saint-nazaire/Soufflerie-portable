@@ -1,5 +1,6 @@
 
 <div align="center"><h1 style=align="center">OLSK Large CNC V3</h1></div>
+<div align="left"><h1 style=align="center">fait par l'équipe de M.Hulot le 01/01/2000</h1></div>
 
 <div align="center"><img src="media/OLSK_Large_CNC_V2_1.jpg" width="100%"></div>
 <div align="center"><i>Open Source CNC Milling machine - Large version - Open Lab Starter Kit</i></div>
@@ -8,9 +9,9 @@
 
 Introduction
 --
-The OLSK Large CNC is an open source large format CNC milling machine, with a milling area of 2500 x 1250 mm. This large-scale machine has an industrial design with a structure entirely made of standard beams and an integrated pneumatic system. It features an automatic tool changer with a capacity for 14 tools, tool sensor, tool cleaning, pneumatic coupling and 4.5 KW spindle.
+ceci est un test pour le repo de l'epf, haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ----------------------.
 
-<img src="media/Highlights.jpg" width="100%">
+<div align="center"><img src="4kwall-pkdgej-2560x1600.jpg" width="50%">
 
 The Assembly Manual
 --
