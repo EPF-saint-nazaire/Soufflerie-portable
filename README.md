@@ -19,7 +19,7 @@ The Assembly Manual
 All OLSK machines are open source and have an assembly manual, the BOM and necessary files available in this repository for replication. The assembly manual is an interactive 3D guide through each step and contains a list of parts, tools and instruction remarks, which follows a logical order to provide a smooth assembly.
 
 - **[Assembly Manual](https://open-lab-starter-kit.github.io/OLSK-Large-CNC/)**
-
+<div align="left">
 Specifications V3
 --
 
