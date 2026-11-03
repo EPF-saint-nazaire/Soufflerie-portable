@@ -2,7 +2,7 @@
 <div align="center"><h1 style=align="center">OLSK Large CNC V3</h1></div>
 <div align="left"><h1 style=align="center">fait par l'équipe de M.Hulot le 01/01/2000</h1></div>
 
-<div align="center"><img src="media/OLSK_Large_CNC_V2_1.jpg" width="100%"></div>
+<div align="center"><img src="20261015_112911.jpg" width="100%"></div>
 <div align="center"><i>Open Source CNC Milling machine - Large version - Open Lab Starter Kit</i></div>
 
 <br>
